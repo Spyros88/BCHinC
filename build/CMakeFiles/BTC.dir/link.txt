@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/BTC.dir/main.c.o CMakeFiles/BTC.dir/base58.c.o CMakeFiles/BTC.dir/sha2.c.o CMakeFiles/BTC.dir/base32_bch.c.o -o BTC  /usr/lib/x86_64-linux-gnu/libsecp256k1.so /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libssl.so /home/spyros/Documents/BTCinC/libbech32/build/libbech32/libbech32.a -lstdc++ /usr/lib/x86_64-linux-gnu/libcrypto.so 

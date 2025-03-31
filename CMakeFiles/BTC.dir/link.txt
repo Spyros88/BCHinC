@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/BTC.dir/main.c.o -o BTC  /usr/lib/x86_64-linux-gnu/libsecp256k1.so /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
