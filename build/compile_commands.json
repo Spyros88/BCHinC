@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/spyros/Documents/BTCinC/build",
+  "command": "/usr/bin/cc  -I/home/spyros/Documents/BTCinC/libbech32/include -I/home/spyros/Documents/BTCinC/libbech32/include/libbech32 -g -o CMakeFiles/BTC.dir/main.c.o -c /home/spyros/Documents/BTCinC/main.c",
+  "file": "/home/spyros/Documents/BTCinC/main.c",
+  "output": "CMakeFiles/BTC.dir/main.c.o"
+},
+{
+  "directory": "/home/spyros/Documents/BTCinC/build",
+  "command": "/usr/bin/cc  -I/home/spyros/Documents/BTCinC/libbech32/include -I/home/spyros/Documents/BTCinC/libbech32/include/libbech32 -g -o CMakeFiles/BTC.dir/base58.c.o -c /home/spyros/Documents/BTCinC/base58.c",
+  "file": "/home/spyros/Documents/BTCinC/base58.c",
+  "output": "CMakeFiles/BTC.dir/base58.c.o"
+},
+{
+  "directory": "/home/spyros/Documents/BTCinC/build",
+  "command": "/usr/bin/cc  -I/home/spyros/Documents/BTCinC/libbech32/include -I/home/spyros/Documents/BTCinC/libbech32/include/libbech32 -g -o CMakeFiles/BTC.dir/sha2.c.o -c /home/spyros/Documents/BTCinC/sha2.c",
+  "file": "/home/spyros/Documents/BTCinC/sha2.c",
+  "output": "CMakeFiles/BTC.dir/sha2.c.o"
+},
+{
+  "directory": "/home/spyros/Documents/BTCinC/build",
+  "command": "/usr/bin/cc  -I/home/spyros/Documents/BTCinC/libbech32/include -I/home/spyros/Documents/BTCinC/libbech32/include/libbech32 -g -o CMakeFiles/BTC.dir/base32_bch.c.o -c /home/spyros/Documents/BTCinC/base32_bch.c",
+  "file": "/home/spyros/Documents/BTCinC/base32_bch.c",
+  "output": "CMakeFiles/BTC.dir/base32_bch.c.o"
+}
+]
