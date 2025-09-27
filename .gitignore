@@ -1,0 +1,23 @@
+# VSCode settings
+.vscode/
+
+# CMake build directories
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+BTC
+CpackConfig.cmake
+CPackConfigSourceConfig.cmake
+CTestTestfile.cmake
+DartConfiguration.tcl
+Makefile
+Testing
+Keys
+# Build output
+build/
+out/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
